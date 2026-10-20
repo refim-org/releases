@@ -7,14 +7,5 @@
       "signature": "guzEBgKJR1buHfRwL9iA79MVA6fDH/t7pmUanqFCKq3J62oAIlcj36t8hJ5W+wUIFQH8YqHi+iGBVMhW5Rh/Bg==",
       "notes": "Erste Version über die Einzeilen-Installation: Gespräche mit Refi, Check-in, Coaching live, Hinweise an Refi, Updates."
     }
-  },
-  "coach": {
-    "windows": {
-      "version": "0.2.0",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.2.0/refim-coach-windows-x64.zip",
-      "sha256": "0b05a0ec967d2b9bcc794b4f4b62572f333fce25c1e83b48a117bacfa7c092c5",
-      "signature": "Kuc9S6v5ZcMvLaQh5vHaxNDCv8zummTuZwVdGwzaTO5egfUX5QzRghQ388r2mOWeiyMSvY35gylA2GpoapurBg==",
-      "notes": "Erste Version über die Einzeilen-Installation: Gespräche mit Refi, Check-in, Coaching live, Hinweise an Refi, Updates."
-    }
   }
 }
