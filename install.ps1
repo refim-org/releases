@@ -2,15 +2,14 @@
 #
 #   irm https://raw.githubusercontent.com/refim-org/releases/main/install.ps1 | iex
 #
-# Refim Coach instead:  $env:REFIM_APP = 'coach'; irm https://raw.githubusercontent.com/refim-org/releases/main/install.ps1 | iex
 # Afterwards Refim keeps itself up to date.
 
 $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
 
-$app = if ($env:REFIM_APP -eq 'coach') { 'coach' } else { 'refim' }
-$name = if ($app -eq 'coach') { 'Refim Coach' } else { 'Refim' }
-$exe = if ($app -eq 'coach') { 'refim_companion.exe' } else { 'refim.exe' }
+$app = 'refim'
+$name = 'Refim'
+$exe = 'refim.exe'
 
 $manifest = Invoke-RestMethod "https://raw.githubusercontent.com/refim-org/releases/main/latest.json"
 $build = $manifest.$app.windows
