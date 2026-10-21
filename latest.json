@@ -1,11 +1,11 @@
 {
   "refim": {
     "windows": {
-      "version": "0.2.0",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.2.0/refim-windows-x64.zip",
-      "sha256": "69050b210fb032848532e7336e3ee7f912cbfa492a393a920f32f054350fe0ac",
-      "signature": "guzEBgKJR1buHfRwL9iA79MVA6fDH/t7pmUanqFCKq3J62oAIlcj36t8hJ5W+wUIFQH8YqHi+iGBVMhW5Rh/Bg==",
-      "notes": "Erste Version über die Einzeilen-Installation: Gespräche mit Refi, Check-in, Coaching live, Hinweise an Refi, Updates."
+      "version": "0.3.0",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.3.0/refim-windows-x64.zip",
+      "sha256": "51e70faf58078e54d7b0a590ff0b2fb886a4f50598db7b74dd00f7cd76c0f059",
+      "signature": "ptn2559FJwuJ/C4o0/FrsCp7vFecqt53Di0VuDBLeSP16wstK/KC7FZ0oDQDnPqzL48xGHjzuwd2syb7ZEXhAQ==",
+      "notes": "Coaching-Nachrichten sind jetzt Ende-zu-Ende verschlüsselt. Profil nach Tags geordnet; Refis Methode aktualisiert sich beim Start selbst (Methode 0.1.1)."
     }
   }
 }
