@@ -1,11 +1,11 @@
 {
   "refim": {
     "windows": {
-      "version": "0.3.1",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.3.1/refim-windows-x64.zip",
-      "sha256": "926da587662d1477dc6bdeff35b8fc80f5507373228aebf4a882811e43303160",
-      "signature": "LAveMwVOxUHV64PBoQUYRL6q6O3j4qH47abW/TS5+gxngpe9Zq7Rw+Q+uk1gRwRzsYSLY6VYMdOoe+FeeZ6ZAA==",
-      "notes": "Weniger über den Treffpunkt: Live-Nachrichten nur, wenn der Coach da ist; die Anwesenheit verrät nur noch die Rolle."
+      "version": "0.3.2",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.3.2/refim-windows-x64.zip",
+      "sha256": "c46bad0f1c83c770e83daa4505b34be0315feefedce56c1217c36cf0889fc23a",
+      "signature": "IBlKfctPRFGw74FheTXVjRXB5NnnBR7mCurnM8+ZE2Rs6YdZR3lpfK5c1QBsE6Gg8RG/61u2KUdlKzF7rf1ZDA==",
+      "notes": "Update startet jetzt wirklich neu in die neue Version."
     }
   }
 }
