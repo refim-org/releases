@@ -1,11 +1,11 @@
 {
   "refim": {
     "windows": {
-      "version": "0.3.0",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.3.0/refim-windows-x64.zip",
-      "sha256": "51e70faf58078e54d7b0a590ff0b2fb886a4f50598db7b74dd00f7cd76c0f059",
-      "signature": "ptn2559FJwuJ/C4o0/FrsCp7vFecqt53Di0VuDBLeSP16wstK/KC7FZ0oDQDnPqzL48xGHjzuwd2syb7ZEXhAQ==",
-      "notes": "Coaching-Nachrichten sind jetzt Ende-zu-Ende verschlüsselt. Profil nach Tags geordnet; Refis Methode aktualisiert sich beim Start selbst (Methode 0.1.1)."
+      "version": "0.3.1",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.3.1/refim-windows-x64.zip",
+      "sha256": "926da587662d1477dc6bdeff35b8fc80f5507373228aebf4a882811e43303160",
+      "signature": "LAveMwVOxUHV64PBoQUYRL6q6O3j4qH47abW/TS5+gxngpe9Zq7Rw+Q+uk1gRwRzsYSLY6VYMdOoe+FeeZ6ZAA==",
+      "notes": "Weniger über den Treffpunkt: Live-Nachrichten nur, wenn der Coach da ist; die Anwesenheit verrät nur noch die Rolle."
     }
   }
 }
