@@ -1,11 +1,11 @@
 {
   "refim": {
     "windows": {
-      "version": "0.3.2",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.3.2/refim-windows-x64.zip",
-      "sha256": "c46bad0f1c83c770e83daa4505b34be0315feefedce56c1217c36cf0889fc23a",
-      "signature": "IBlKfctPRFGw74FheTXVjRXB5NnnBR7mCurnM8+ZE2Rs6YdZR3lpfK5c1QBsE6Gg8RG/61u2KUdlKzF7rf1ZDA==",
-      "notes": "Update startet jetzt wirklich neu in die neue Version."
+      "version": "0.3.3",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.3.3/refim-windows-x64.zip",
+      "sha256": "5570a806fefc84698c17e44b4de50de0f54cc802f01179bee945e74de5890caf",
+      "signature": "2VGE+2rlqnwbnUZkzMcKrRfyScER+JcWpHwJNIkN9xT8T2PMMX4dtfwXC7JRnJO4zAJXUHCFzSf0Cqeaoj2WBw==",
+      "notes": "Sicherere Updates (Ordnertausch mit Rückfall); Refi nutzt Modell und Aufwand aus deiner Claude-Code-Einstellung."
     }
   }
 }
