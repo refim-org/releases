@@ -70,7 +70,7 @@ einzelne Sitzung.
 
 ## So funktioniert Refim
 
-- **Eine App auf deinem Rechner** – für Windows, macOS folgt in Kürze. Du
+- **Eine App auf deinem Rechner** – für Windows und macOS. Du
   sprichst mit Refi in Refim; im Hintergrund meldet es sich zum Check-in.
 - **Deine eigene KI.** Refi arbeitet über [Claude Code](https://code.claude.com/docs/en/setup)
   oder [Codex](https://developers.openai.com/codex/cli) – mit deinem Abo und den
@@ -99,7 +99,7 @@ angemeldet.
 irm https://raw.githubusercontent.com/refim-org/releases/main/install.ps1 | iex
 ```
 
-**macOS** – im Terminal (sobald die Mac-Version da ist):
+**macOS** (ab macOS 12) – im Terminal:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/refim-org/releases/main/install.sh | bash
@@ -122,7 +122,7 @@ works out solutions, builds what can be built – and comes back to see whether
 anything actually changed. Four conversations – getting to know you, retro,
 co-design and check-in – form one loop, and Refi starts the check-in on its own.
 
-Refim is an app on your computer (Windows; macOS soon). It works through your
+Refim is an app on your computer (Windows and macOS). It works through your
 own [Claude Code](https://code.claude.com/docs/en/setup) or
 [Codex](https://developers.openai.com/codex/cli) on your own plan, keeps your
 record and conversations as files in a folder you choose, and follows an open
@@ -133,6 +133,12 @@ Install on Windows (PowerShell):
 
 ```powershell
 irm https://raw.githubusercontent.com/refim-org/releases/main/install.ps1 | iex
+```
+
+Install on macOS 12 or later (Terminal):
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/refim-org/releases/main/install.sh | bash
 ```
 
 Builds and `latest.json` (the newest build per platform) are in this repository.
