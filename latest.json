@@ -6,6 +6,13 @@
       "sha256": "6052e070b5b8cc5b884a87bc06a2f3a7ebccc8d42bc12a51ede4d19ef6b3114a",
       "signature": "hdawWyoOsh2BYGYJaApsoow9DnGSFOcrBdxfNkgF8FSfVNmYiCd4s97/csiZMCVBgX6DlibxgF7qUmZDlhgYAw==",
       "notes": "Deinstallieren ist ein sauberer Neuanfang; nur dein Refim-Ordner bleibt."
+    },
+    "macos": {
+      "version": "0.4.0",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.4.0/refim-macos.zip",
+      "sha256": "2e7cec168de04c74d793b276a89510391d736a97397f52ed26143c2e0ae59b43",
+      "signature": "RQFcbjgXBz92sOrFShJKhDa/wyFsUJjzZM85x4ZG2h3RpeVKnrVFoD7yzLnTeO5P3X5XTcuZFG4T86eX/pd6BA==",
+      "notes": "Refim gibt es jetzt auch für macOS. Mitteilungen und Menüleisten-Symbol laufen über aktuelle Systemschnittstellen."
     }
   }
 }
