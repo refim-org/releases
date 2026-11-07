@@ -8,11 +8,11 @@
       "notes": "Coaches can start a conversation in an action field; Refi takes it on your computer."
     },
     "macos": {
-      "version": "0.4.0",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.4.0/refim-macos.zip",
-      "sha256": "2e7cec168de04c74d793b276a89510391d736a97397f52ed26143c2e0ae59b43",
-      "signature": "RQFcbjgXBz92sOrFShJKhDa/wyFsUJjzZM85x4ZG2h3RpeVKnrVFoD7yzLnTeO5P3X5XTcuZFG4T86eX/pd6BA==",
-      "notes": "Refim gibt es jetzt auch für macOS. Mitteilungen und Menüleisten-Symbol laufen über aktuelle Systemschnittstellen."
+      "version": "0.4.1",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.4.1/refim-macos.zip",
+      "sha256": "bd29791ff5c8a13054ea443adbc55356cd4e4cda33312a63dea73abb5696081e",
+      "signature": "HSe1t41hohz4kRLmin21wKuD5yrKfd9K79HnDTYQ1qcYj07IfLZeCqrN9hAW6mSMTqrSKh3eyl8nANZBxdO3Dw==",
+      "notes": "Coaches can start a conversation in an action field; Refi takes it on your computer."
     }
   }
 }
