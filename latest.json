@@ -1,11 +1,11 @@
 {
   "refim": {
     "windows": {
-      "version": "0.4.1",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.4.1/refim-windows-x64.zip",
-      "sha256": "97c317d492cf80cf4348aacfc3d34543f7cb1b8c11b99cab3ada823ab83560fb",
-      "signature": "6Ua8wviQTNUv6XmH2LJ7k6yHjuaG66USnVcXImFSa0F5wJNtqwJQEGUOm+1rVZAJGLx/OccBrK32Ck07VYs6Cw==",
-      "notes": "Coaches can start a conversation in an action field; Refi takes it on your computer."
+      "version": "0.4.2",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.4.2/refim-windows-x64.zip",
+      "sha256": "b6193f84e93c0979d488f44b098e5f865c9f8a4601c72fc1bd6cbcade4b3389e",
+      "signature": "03Ci5pnnn2FYiU3oCVy7a1QQgmV/KkOufeY3yHlyLVJ3CN/cZGK7/ZwFzJSOxeltAMVSyB7q4kHx5d/RyPYdAw==",
+      "notes": "Updates on Windows install again. After 0.4.1, install once by hand."
     },
     "macos": {
       "version": "0.4.1",
