@@ -1,11 +1,11 @@
 {
   "refim": {
     "windows": {
-      "version": "0.4.2",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.4.2/refim-windows-x64.zip",
-      "sha256": "b6193f84e93c0979d488f44b098e5f865c9f8a4601c72fc1bd6cbcade4b3389e",
-      "signature": "03Ci5pnnn2FYiU3oCVy7a1QQgmV/KkOufeY3yHlyLVJ3CN/cZGK7/ZwFzJSOxeltAMVSyB7q4kHx5d/RyPYdAw==",
-      "notes": "Updates on Windows install again. After 0.4.1, install once by hand."
+      "version": "0.4.3",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.4.3/refim-windows-x64.zip",
+      "sha256": "e42df76d85e0ec8cfc8e65dd9c1e6f709dfb3cc5206c1f8b50ca6b93fc6a4534",
+      "signature": "iZpZV62uJuSnMnLVN8dtup2sEszYMhoKrVC1NZjPs8OQNNwdbWUvGSJhljRn0pmlwO8DQBtzwiG62WzF5sdcBw==",
+      "notes": "No more autostart or tray icon: closing the window quits Refim. Fewer reasons for virus scanners to flag it."
     },
     "macos": {
       "version": "0.4.1",
