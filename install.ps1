@@ -24,7 +24,6 @@ $zip = Join-Path $env:TEMP "refim-$([guid]::NewGuid()).zip"
 Invoke-WebRequest $build.url -OutFile $zip -UseBasicParsing
 $hash = (Get-FileHash $zip -Algorithm SHA256).Hash.ToLower()
 if ($hash -ne $build.sha256) { Remove-Item $zip; throw "Checksum does not match - download aborted." }
-Unblock-File $zip
 
 $dir = Join-Path $env:LOCALAPPDATA "Programs\$name"
 if (Test-Path $dir) { Remove-Item $dir -Recurse -Force }
