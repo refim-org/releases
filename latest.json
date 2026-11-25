@@ -1,11 +1,11 @@
 {
   "refim": {
     "windows": {
-      "version": "0.4.3",
-      "url": "https://github.com/refim-org/releases/releases/download/v0.4.3/refim-windows-x64.zip",
-      "sha256": "e42df76d85e0ec8cfc8e65dd9c1e6f709dfb3cc5206c1f8b50ca6b93fc6a4534",
-      "signature": "iZpZV62uJuSnMnLVN8dtup2sEszYMhoKrVC1NZjPs8OQNNwdbWUvGSJhljRn0pmlwO8DQBtzwiG62WzF5sdcBw==",
-      "notes": "No more autostart or tray icon: closing the window quits Refim. Fewer reasons for virus scanners to flag it."
+      "version": "0.4.4",
+      "url": "https://github.com/refim-org/releases/releases/download/v0.4.4/refim-windows-x64.zip",
+      "sha256": "54c0743eb42425bd8242962ebe675bfde75fadea1623742dd4da83ac1586a92a",
+      "signature": "0OpGDwdQ/YUuWKaxu6YLW1FnSCjMH3fHWHbIxTxtEvGs+c5kCoLmbOa5+jLXqRQn0MiRu9ATwoK9y0XM/LEgCw==",
+      "notes": "Refi now knows the local time, not just the date."
     },
     "macos": {
       "version": "0.4.1",
